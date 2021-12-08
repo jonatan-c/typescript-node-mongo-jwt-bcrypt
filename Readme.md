@@ -40,6 +40,7 @@ TOKEN_PALABRA_SECRETA=ASD123
 `npm run dev`
 
 ## <a name="technologies"></a>Technologies:
+- Typescript
 - Node Js
 - Express
 - Mongoose
