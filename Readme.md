@@ -18,8 +18,6 @@ This is a project practice .
 
 ## <a name="table-of-contents"></a>Table of Contents
 - [Instalation](#installation)
-- [Documentation](#documentation)
-- [Images](#images)
 - [Technologies](#technologies)
 
 ## <a name="installation"></a>Instalation:
@@ -31,10 +29,8 @@ This is a project practice .
 ```
 npm install
 ```
-- Open database and create:
-```
-CREATE DATABASE nombreDatabase
-```
+
+ 
 - Create a file `.env` in the directory and put and complete:
 ```
 TOKEN_PALABRA_SECRETA=ASD123
